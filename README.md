@@ -1,1 +1,1 @@
-# Codesoft-Java-INtership
+# Codesoft-Java-Intership
